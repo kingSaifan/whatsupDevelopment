@@ -9,3 +9,5 @@ Last scene code
 status code
 
 added (vieo,image,audio)
+
+sharing th data
