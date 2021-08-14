@@ -10,4 +10,4 @@ status code
 
 added (vieo,image,audio)
 
-sharing th data
+sharing the data
